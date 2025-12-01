@@ -1,0 +1,3 @@
+[submodule "PomodoroTimer"]
+	path = PomodoroTimer
+	url = https://github.com/L-YS-Ayoussef/Pomodoro.git
