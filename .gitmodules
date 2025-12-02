@@ -10,3 +10,6 @@
 [submodule "Snake-Game-Classic-Python-Snake"]
 	path = Snake-Game-Classic-Python-Snake
 	url = https://github.com/L-YS-Ayoussef/Snake-Game-Classic-Python-Snake.git
+[submodule "LockIt-Simple-Password-Data-Manager"]
+	path = LockIt-Simple-Password-Data-Manager
+	url = https://github.com/L-YS-Ayoussef/LockIt-Simple-Password-Data-Manager.git
