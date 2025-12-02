@@ -25,3 +25,9 @@ It asks a series of true/false questions, updates your score as you answer, and 
 **Folder:** `Pong-Game-2-Player-Classic/`  
 This project is a classic Pong game implemented in Python.
 Two players control paddles on the left and right sides of the screen, trying to bounce the ball past their opponent. The first player to reach 5 points wins the game.
+
+### 4️⃣ Snake Classic Game 🐍
+**Folder:** `Snake-Game-Classic-Python-Snake/`  
+This project is a classic Snake game implemented in Python.
+You control a snake that moves around the screen, trying to eat blue food dots. Each time the snake eats, it grows longer and your score increases. If the snake hits a wall (or itself), the game resets and the score returns to 0. The highest score is saved in a text file so you can try to beat your personal best.
+️
