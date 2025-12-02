@@ -16,3 +16,6 @@
 [submodule "Crossing-Game-Turtle-Dodge"]
 	path = Crossing-Game-Turtle-Dodge
 	url = https://github.com/L-YS-Ayoussef/Crossing-Game-Turtle-Dodge.git
+[submodule "FlashyWords-French-Flashcard-Trainer"]
+	path = FlashyWords-French-Flashcard-Trainer
+	url = https://github.com/L-YS-Ayoussef/FlashyWords-French-Flashcard-Trainer.git
