@@ -4,3 +4,6 @@
 [submodule "Quizzer-True-False-Quiz-App"]
 	path = Quizzer-True-False-Quiz-App
 	url = https://github.com/L-YS-Ayoussef/Quizzer-True-False-Quiz-App.git
+[submodule "Pong-Game-2-Player-Classic"]
+	path = Pong-Game-2-Player-Classic
+	url = https://github.com/L-YS-Ayoussef/Pong-Game-2-Player-Classic.git
