@@ -7,3 +7,6 @@
 [submodule "Pong-Game-2-Player-Classic"]
 	path = Pong-Game-2-Player-Classic
 	url = https://github.com/L-YS-Ayoussef/Pong-Game-2-Player-Classic.git
+[submodule "Snake-Game-Classic-Python-Snake"]
+	path = Snake-Game-Classic-Python-Snake
+	url = https://github.com/L-YS-Ayoussef/Snake-Game-Classic-Python-Snake.git
