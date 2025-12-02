@@ -13,3 +13,6 @@
 [submodule "LockIt-Simple-Password-Data-Manager"]
 	path = LockIt-Simple-Password-Data-Manager
 	url = https://github.com/L-YS-Ayoussef/LockIt-Simple-Password-Data-Manager.git
+[submodule "Crossing-Game-Turtle-Dodge"]
+	path = Crossing-Game-Turtle-Dodge
+	url = https://github.com/L-YS-Ayoussef/Crossing-Game-Turtle-Dodge.git
