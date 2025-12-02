@@ -1,3 +1,6 @@
 [submodule "PomodoroTimer"]
 	path = PomodoroTimer
 	url = https://github.com/L-YS-Ayoussef/Pomodoro.git
+[submodule "Quizzer-True-False-Quiz-App"]
+	path = Quizzer-True-False-Quiz-App
+	url = https://github.com/L-YS-Ayoussef/Quizzer-True-False-Quiz-App.git
