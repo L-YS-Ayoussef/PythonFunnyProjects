@@ -73,13 +73,13 @@ Two players control paddles on the left and right sides of the screen, trying to
 ## 🖼️ App Screenshots
 
 ### Ping Pong Table
-![Ping Pong Table](https://github.com/L-YS-Ayoussef/Pong-Game-2-Player-Classic/blob/master/Screenshots/Screenshot1.png)
+![Ping Pong Table](Screenshots/Screenshot1.png)
 
 ### Game Over
-![Game Over](https://github.com/L-YS-Ayoussef/Pong-Game-2-Player-Classic/blob/master/Screenshots/Screenshot2.png)
+![Game Over](Screenshots/Screenshot2.png)
 
 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-📌 **Copyright © 2025 Chameleon Tech**
+**Copyright © 2025 Chameleon Tech**
