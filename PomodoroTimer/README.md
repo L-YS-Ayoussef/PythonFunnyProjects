@@ -71,13 +71,13 @@ Pomodoro is a simple desktop productivity timer built with Python using Tkinter 
 ## 🖼️ App Screenshots
 
 ### Timer
-![Timer](https://github.com/L-YS-Ayoussef/Pomodoro/blob/modify1/Screenshots/Screenshot1.png)
+![Timer](Screenshots/Screenshot1.png)
 
 ### Work
-![Work](https://github.com/L-YS-Ayoussef/Pomodoro/blob/modify1/Screenshots/Screenshot2.png)
+![Work](Screenshots/Screenshot2.png)
 
 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-📌 **Copyright © 2025 Chameleon Tech** 
+**Copyright © 2025 Chameleon Tech** 
