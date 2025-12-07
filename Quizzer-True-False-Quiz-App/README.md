@@ -51,15 +51,15 @@ It asks a series of true/false questions, updates your score as you answer, and 
 ## 🖼️ App Screenshots
 
 ### Qizzer
-![Qizzer](https://github.com/L-YS-Ayoussef/Quizzer-True-False-Quiz-App/blob/master/Screenshots/Screenshot1.png)
+![Qizzer](Screenshots/Screenshot1.png)
 
 ### Answer Correct
-![Answer Correct](https://github.com/L-YS-Ayoussef/Quizzer-True-False-Quiz-App/blob/master/Screenshots/Screenshot2.png)
+![Answer Correct](Screenshots/Screenshot2.png)
 
 ### Answer Wrong
-![Answer Wrong](https://github.com/L-YS-Ayoussef/Quizzer-True-False-Quiz-App/blob/master/Screenshots/Screenshot3.png)
+![Answer Wrong](Screenshots/Screenshot3.png)
 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-📌 **Copyright © 2025 Chameleon Tech**
+**Copyright © 2025 Chameleon Tech**
