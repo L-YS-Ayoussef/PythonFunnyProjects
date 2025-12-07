@@ -77,4 +77,4 @@ It helps you practice French vocabulary: a French word appears on a card, then f
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-**Copyright © 2025 Chameleon Tech** 
+**Copyright © 2022 Chameleon Tech** 
