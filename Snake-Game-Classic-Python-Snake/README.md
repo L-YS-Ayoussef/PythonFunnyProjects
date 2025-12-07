@@ -67,10 +67,10 @@ You control a snake that moves around the screen, trying to eat blue food dots. 
 ## 🖼️ App Screenshots
 
 ### Snake Classic Game
-![Snake Classic Game](https://github.com/L-YS-Ayoussef/Snake-Game-Classic-Python-Snake/blob/master/Screenshots/Screenshot1.png)
+![Snake Classic Game](Screenshots/Screenshot1.png)
 
 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-📌 **Copyright © 2025 Chameleon Tech**
+**Copyright © 2025 Chameleon Tech**
