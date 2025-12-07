@@ -80,4 +80,4 @@ Pomodoro is a simple desktop productivity timer built with Python using Tkinter 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-**Copyright © 2025 Chameleon Tech** 
+**Copyright © 2022 Chameleon Tech** 
