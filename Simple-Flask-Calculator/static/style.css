@@ -1,0 +1,102 @@
+/* Resetting default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFEDD8;
+}
+
+/* Container styles */
+.container {
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #EABE6C;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+/* Header styles */
+h2 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 5%;
+}
+
+/* Form styles */
+form {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    margin-top: 10%;
+    border: 1px solid #ccc;
+    border-radius: 9px;
+    font-size: 16px;
+}
+
+/* Button styles */
+.buttons {
+    margin-top: 15%;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 14px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+}
+
+.add:hover {
+    background-color: green;
+}
+
+.sub:hover {
+    background-color: yellow;
+}
+
+.mul:hover {
+    background-color: red;
+}
+
+.div:hover {
+    background-color: grey;
+}
+
+p {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btnLink {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 18%;
+    margin-left: 35%;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: grey;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btnLink:hover {
+    background-color: black;
+}
