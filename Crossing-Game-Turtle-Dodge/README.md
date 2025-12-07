@@ -71,9 +71,9 @@ You control a small turtle trying to cross the screen while colorful “cars” 
 ## 🖼️ App Screenshots
 
 ### Crossing Turtle
-![Crossing Turtle](https://github.com/L-YS-Ayoussef/Crossing-Game-Turtle-Dodge/blob/master/Screenshots/Screenshot1.png)
+![Crossing Turtle](Screenshots/Screenshot1.png)
 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-📌 **Copyright © 2025 Chameleon Tech** 
+**Copyright © 2025 Chameleon Tech** 
