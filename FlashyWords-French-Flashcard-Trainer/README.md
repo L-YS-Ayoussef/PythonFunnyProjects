@@ -68,13 +68,13 @@ It helps you practice French vocabulary: a French word appears on a card, then f
 ## 🖼️ App Screenshots
 
 ### Flash Card
-![Flash Card](https://github.com/L-YS-Ayoussef/FlashyWords-French-Flashcard-Trainer/blob/master/Screenshots/Screenshot1.png)
+![Flash Card](Screenshots/Screenshot1.png)
 
 ### Learned Words
-![Learned Words](https://github.com/L-YS-Ayoussef/FlashyWords-French-Flashcard-Trainer/blob/master/Screenshots/Screenshot2.png)
+![Learned Words](Screenshots/Screenshot2.png)
 
 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-📌 **Copyright © 2025 Chameleon Tech** 
+**Copyright © 2025 Chameleon Tech** 
