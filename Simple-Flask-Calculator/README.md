@@ -22,4 +22,4 @@ This is a simple web application built using Flask that allows users to perform 
 ## 📜 License
 
 This project is open-source and available under the Chameleon Tech License. <br>
-**Copyright (c) 2025 Chameleon Tech**
+**Copyright (c) 2022 Chameleon Tech**
