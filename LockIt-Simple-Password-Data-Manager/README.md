@@ -86,13 +86,13 @@ No external third-party packages are required.
 ## 🖼️ App Screenshots
 
 ### LockIt
-![LockIt](https://github.com/L-YS-Ayoussef/LockIt-Simple-Password-Data-Manager/blob/master/Screenshots/Screenshot1.png)
+![LockIt](Screenshots/Screenshot1.png)
 
 ### Search Data
-![Search Data](https://github.com/L-YS-Ayoussef/LockIt-Simple-Password-Data-Manager/blob/master/Screenshots/Screenshot2.png)
+![Search Data](Screenshots/Screenshot2.png)
 
 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-📌 **Copyright © 2025 Chameleon Tech** 
+**Copyright © 2025 Chameleon Tech** 
