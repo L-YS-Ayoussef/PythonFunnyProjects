@@ -73,4 +73,4 @@ You control a snake that moves around the screen, trying to eat blue food dots. 
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-**Copyright © 2025 Chameleon Tech**
+**Copyright © 2022 Chameleon Tech**
