@@ -56,3 +56,7 @@ This is a simple web application built using Flask that allows users to perform 
 This project is a classic Snake game implemented in Python.
 You control a snake that moves around the screen, trying to eat blue food dots. Each time the snake eats, it grows longer and your score increases. If the snake hits a wall (or itself), the game resets and the score returns to 0. The highest score is saved in a text file so you can try to beat your personal best.
 ️
+## 📜 License
+This project is **open-source** and available for anyone to use, modify, and distribute.
+
+**Copyright © 2025 Chameleon Tech** 
