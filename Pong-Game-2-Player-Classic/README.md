@@ -82,4 +82,4 @@ Two players control paddles on the left and right sides of the screen, trying to
 ## 📜 License
 This project is **open-source** and available for anyone to use, modify, and distribute.
 
-**Copyright © 2025 Chameleon Tech**
+**Copyright © 2022 Chameleon Tech**
